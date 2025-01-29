@@ -1,16 +1,12 @@
 actors:
-  alice:
-    image_url: /images/actors/alice.png
-    name: alice
-    url: http://sns.example.com/alice
-  bob:
-    image_url: /images/actors/bob.png
-    name: bob
-    url: http://sns.example.com/bob
-author: alice
-description: Example description
+  kiryuanzu:
+    image_url: /images/actors/kiryuanzu.png
+    name: kiryuanzu
+    url: https://x.com/anzu_mmm
+author: kiryuanzu
+description: 桐生あんず電波局
 description_long: Example long description
-email: info@example.com
+email: anzu.nagato.1005@gmail.com
 exclude:
   - docker
   - docker-compose.yml
@@ -20,7 +16,7 @@ exclude:
   - README.md
   - vendor
 google_analytics:
-hashtag: examplehashtag
+hashtag: 桐生あんず電波局
 itunes_podcast_url:
 keywords: comma,separated,keywords
 language: ja
@@ -29,5 +25,5 @@ permalink: /episode/:title
 sass:
   sass_dir: css
 timezone: Asia/Tokyo
-title: Example title
+title: 桐生あんず電波局
 url: http://example.com
