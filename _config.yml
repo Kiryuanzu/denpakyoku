@@ -5,7 +5,7 @@ actors:
     url: https://x.com/anzu_mmm
 author: kiryuanzu
 description: 桐生あんず電波局
-description_long: Example long description
+description_long: 三浦半島在住の桐生あんずが日常での考え事や推しについての話をするラジオ
 email: anzu.nagato.1005@gmail.com
 exclude:
   - docker
