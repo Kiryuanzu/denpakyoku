@@ -17,3 +17,15 @@
     width: 100%;
   }
 }
+
+.video-item {
+  width: 560px;
+  height: 315px;
+}
+
+
+@media (max-width: 520px) {
+  .video-item {
+    width: 100%;
+  }
+}
